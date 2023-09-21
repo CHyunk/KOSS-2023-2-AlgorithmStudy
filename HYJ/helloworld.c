@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int maine(){
+int main(){
     print("hello world");
     return 0;
 }
